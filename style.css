@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    background: rgb(93, 134, 145);
+}
+.main-box {
+    height: 400px;
+    width: 600px;
+    background-color: rgb(39, 110, 177);
+    border-radius: 25px;
+    /* border: 2px solid red; */
+    margin: 100px 0px 0px 350px;
+}
+.wel-text {
+    color: #fff;
+    text-align: center;
+    margin-top: 35px;
+}
